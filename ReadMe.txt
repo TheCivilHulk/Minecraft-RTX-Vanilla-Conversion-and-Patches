@@ -11,4 +11,6 @@ will override the clear ones!
 
 The two colored lighting patches work as follows. The Terracotta version replaces all versions of terracotta blocks except for the normal, light gray, gray, and black versions with pure colored emissive variants. The Concrete version replaces all versions of the concrete powder blocks except for the light gray, gray, and black versions, with pure colored emissive variants. The two packs can be used separately or in tandem as needed.
 
+Deku from the RTX Discord has been working on some of their own stuff using my pack as a starting point and using TextureEdit! They've made a lot of cool stuff and are still working actively, so be sure to check it out in the Deku Addons Folder!
+
 Happy Crafting!
