@@ -13,4 +13,6 @@ The two colored lighting patches work as follows. The Terracotta version replace
 
 Deku from the RTX Discord has been working on some of their own stuff using my pack as a starting point and using TextureEdit! They've made a lot of cool stuff and are still working actively, so be sure to check it out in the Deku Addons Folder!
 
+I made all of the textures and RTX patches using TextureEdit, a free software programmed by u/warm_teeth on Reddit! If you'd like to download this and try it out yourself check out https://www.reddit.com/r/TextureEdit/ for information including two video tutorials created by yours truly! Feel free to leave any feedback, suggestions, or questions on the subreddit!
+
 Happy Crafting!
